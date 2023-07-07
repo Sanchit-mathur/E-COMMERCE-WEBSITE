@@ -11,6 +11,3 @@ This is a repository for an e-commerce website, a project developed using HTML &
 
 
 
-
-
-
